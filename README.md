@@ -1,5 +1,4 @@
 <div align="center">
-  <style> /* Animated Tech Stack Styles */ .tech-stack { display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 2rem 0; } .tech-item { padding: 10px 20px; border-radius: 50px; background: #0f172a; color: white; position: relative; overflow: hidden; font-weight: 500; } .tech-item::before { content: ''; position: absolute; top: 0; left: -100%; width: 100%; height: 100%; background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent); transition: 0.5s; } .tech-item:hover::before { left: 100%; } </style>
 <!-- GitHub Banner -->
 <img src="https://placehold.co/1280x400/0f172a/white?text=Kurt+Liao:+Building+Modern+Web+Apps" alt="GitHub Banner" width="100%">
 
