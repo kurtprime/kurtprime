@@ -45,11 +45,13 @@
 
 ### [TalkAI](https://github.com/kurtprime/Call-Ai) - Intelligent Meeting Assistant
 > AI-powered meeting platform with real-time transcription and analytics
-Tech Stack:
-https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white
-https://img.shields.io/badge/-Inngest-0f172a?logo=inngest&logoColor=38bdf8
-https://img.shields.io/badge/-OpenRouter-6441A5
-https://img.shields.io/badge/-Drizzle_ORM-FF6B6B
+
+**Tech Stack:**  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
+![Inngest](https://img.shields.io/badge/-Inngest-0f172a?logo=inngest&logoColor=38bdf8)
+![OpenRouter](https://img.shields.io/badge/-OpenRouter-6441A5)
+![Drizzle ORM](https://img.shields.io/badge/-Drizzle_ORM-FF6B6B)
+
 
 Features:
 
