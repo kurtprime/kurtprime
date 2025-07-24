@@ -24,6 +24,7 @@
   <div class="tech-item">Supabase</div>
   <div class="tech-item">Neon</div>
   <div class="tech-item">Drizzle</div>
+  <style> /* Animated Tech Stack Styles */ .tech-stack { display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 2rem 0; } .tech-item { padding: 10px 20px; border-radius: 50px; background: #0f172a; color: white; position: relative; overflow: hidden; font-weight: 500; } .tech-item::before { content: ''; position: absolute; top: 0; left: -100%; width: 100%; height: 100%; background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent); transition: 0.5s; } .tech-item:hover::before { left: 100%; } </style>
 </div>
 
 </div>
@@ -72,7 +73,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
+
+
+</div>
 <!-- GitHub Stats Cards -->
 [![Kurt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kurtprime&show_icons=true&theme=radical&count_private=true)](https://github.com/kurtprime)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurtprime&layout=compact&theme=radical&hide=html,css)](https://github.com/kurtprime)
@@ -88,4 +91,4 @@ graph LR
     E --> G[Drizzle ORM]
     F --> G
     G --> H[BetterAuth]
-</div>
+
