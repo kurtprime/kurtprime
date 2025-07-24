@@ -48,7 +48,7 @@
 
 ## 🔥 Featured Projects
 
-### [MeetAI](https://github.com/yourusername/meetai) - Intelligent Meeting Assistant
+### [TalkAI](https://github.com/kurtprime/Call-Ai) - Intelligent Meeting Assistant
 > AI-powered meeting platform with real-time transcription and analytics
 
 <div>
@@ -62,20 +62,6 @@
 - AI-powered summaries with custom prompts
 - Event-driven architecture with background workers
 - End-to-end TypeScript with strict type safety
-
-### [AuthFlow](https://github.com/yourusername/authflow) - Authentication Microservice
-> Modular authentication system with multi-provider support
-
-<div>
-  <img src="https://img.shields.io/badge/-Clerk-1570EF" height="25">
-  <img src="https://img.shields.io/badge/-BetterAuth-FF6C37" height="25">
-  <img src="https://img.shields.io/badge/-Supabase-3ECF8E" height="25">
-</div>
-
-- Unified auth API for web and mobile
-- Customizable authentication workflows
-- RBAC with granular permissions
-- Session management with JWT refresh
 
 ---
 
@@ -98,3 +84,16 @@ graph LR
     E --> G[Drizzle ORM]
     F --> G
     G --> H[BetterAuth]
+
+</div>
+
+const myPrinciples = {
+  architecture: "Event-driven with clear boundaries",
+  testing: "Vitest for unit tests, Playwright for E2E",
+  infrastructure: "Serverless-first with edge computing",
+  databases: "Relational when structured, NoSQL when flexible",
+  deployment: "Zero-downtime deployments with feature flags",
+  collaboration: "Documentation as code with TypeScript types",
+};
+
+<style> /* Animated Tech Stack Styles */ .tech-stack { display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 2rem 0; } .tech-item { padding: 10px 20px; border-radius: 50px; background: #0f172a; color: white; position: relative; overflow: hidden; font-weight: 500; } .tech-item::before { content: ''; position: absolute; top: 0; left: -100%; width: 100%; height: 100%; background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent); transition: 0.5s; } .tech-item:hover::before { left: 100%; } </style>
