@@ -1,6 +1,6 @@
 <div align="center">
 <!-- GitHub Banner -->
-<img src="https://placehold.co/1280x400/0f172a/white?text=Kurt+Liao:+Building+Modern+Web+Apps" alt="GitHub Banner" width="100%">
+<img src="https://placehold.co/1280x400/0f172a/white?text=Kurt+Ivan:+Building+Modern+Web+Apps" alt="GitHub Banner" width="100%">
 
 <!-- Profile Header -->
 <h1>👋 Hi, I'm Kurt - Full Stack Developer</h1>
