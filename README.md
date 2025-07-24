@@ -12,19 +12,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kurt-ivan)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kurtivan_dev)
 
-<!-- Animated Tech Stack -->
-<div class="tech-stack">
-  <div class="tech-item">Next.js</div>
-  <div class="tech-item">React</div>
-  <div class="tech-item">TypeScript</div>
-  <div class="tech-item">Inngest</div>
-  <div class="tech-item">OpenRouter</div>
-  <div class="tech-item">Clerk</div>
-  <div class="tech-item">BetterAuth</div>
-  <div class="tech-item">Supabase</div>
-  <div class="tech-item">Neon</div>
-  <div class="tech-item">Drizzle</div>
-</div>
+<!-- Tech Stack Badges -->
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Inngest-0f172a?logo=inngest&logoColor=38bdf8" alt="Inngest">
+  <img src="https://img.shields.io/badge/OpenRouter-6441A5?logo=openai&logoColor=white" alt="OpenRouter">
+  <img src="https://img.shields.io/badge/Clerk-1570EF?logo=clerk&logoColor=white" alt="Clerk">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/Drizzle-FF6B6B?logo=postgresql&logoColor=white" alt="Drizzle">
+</p>
 
 </div>
 
@@ -32,21 +30,14 @@
 
 ## 🚀 Tech Stack & Expertise
 
-<div align="center">
-
-<!-- Tech Badges -->
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Inngest](https://img.shields.io/badge/Inngest-0f172a?style=for-the-badge&logo=inngest&logoColor=38bdf8)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle-ORM-FF6B6B?style=for-the-badge)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-AI_Gateway-6441A5?style=for-the-badge)
-![Clerk](https://img.shields.io/badge/Clerk-Auth-1570EF?style=for-the-badge)
-![BetterAuth](https://img.shields.io/badge/BetterAuth-Auth_SDK-FF6C37?style=for-the-badge)
-
-</div>
+| Category       | Technologies                                                                 |
+|----------------|------------------------------------------------------------------------------|
+| **Frontend**   | Next.js, React, Tailwind CSS, Shadcn UI                                      |
+| **Backend**    | Inngest, Serverless Functions, Edge Runtime                                  |
+| **AI**         | OpenRouter, LangChain, AI SDK                                               |
+| **Auth**       | Clerk, BetterAuth, OAuth 2.0, JWT                                           |
+| **Database**   | Supabase, Neon PostgreSQL, Drizzle ORM                                      |
+| **DevOps**     | Vercel, GitHub Actions, CI/CD                                               |
 
 ---
 
@@ -54,37 +45,3 @@
 
 ### [TalkAI](https://github.com/kurtprime/Call-Ai) - Intelligent Meeting Assistant
 > AI-powered meeting platform with real-time transcription and analytics
-
-<div>
-  <img src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/-Inngest-0f172a?logo=inngest&logoColor=38bdf8" height="25">
-  <img src="https://img.shields.io/badge/-OpenRouter-6441A5" height="25">
-  <img src="https://img.shields.io/badge/-Drizzle_ORM-FF6B6B" height="25">
-</div>
-
-- Real-time meeting transcription using WebSockets
-- AI-powered summaries with custom prompts
-- Event-driven architecture with background workers
-- End-to-end TypeScript with strict type safety
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<!-- GitHub Stats Cards -->
-[![Kurt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kurtprime&show_icons=true&theme=radical&count_private=true)](https://github.com/kurtprime)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurtprime&layout=compact&theme=radical&hide=html,css)](https://github.com/kurtprime)
-
-<!-- Architecture Diagram -->
-```mermaid
-graph LR
-    A[Next.js Frontend] --> B[Clerk Auth]
-    A --> C[Inngest Workers]
-    C --> D[OpenRouter AI]
-    B --> E[Supabase]
-    C --> F[Neon DB]
-    E --> G[Drizzle ORM]
-    F --> G
-    G --> H[BetterAuth]
