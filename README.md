@@ -45,3 +45,26 @@
 
 ### [TalkAI](https://github.com/kurtprime/Call-Ai) - Intelligent Meeting Assistant
 > AI-powered meeting platform with real-time transcription and analytics
+Tech Stack:
+https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white
+https://img.shields.io/badge/-Inngest-0f172a?logo=inngest&logoColor=38bdf8
+https://img.shields.io/badge/-OpenRouter-6441A5
+https://img.shields.io/badge/-Drizzle_ORM-FF6B6B
+
+Features:
+
+    🎤 Real-time meeting transcription using WebSockets
+
+    🤖 AI-powered summaries with custom prompts
+
+    ⚡️ Event-driven architecture with background workers
+
+    🔒 End-to-end TypeScript with strict type safety
+<div align="center">
+
+https://github-readme-stats.vercel.app/api?username=kurtprime&show_icons=true&theme=radical&count_private=true
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=kurtprime&layout=compact&theme=radical&hide=html,css
+
+https://streak-stats.demolab.com/?user=kurtprime&theme=radical
+</div>
