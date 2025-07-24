@@ -62,9 +62,6 @@ Features:
     🔒 End-to-end TypeScript with strict type safety
 <div align="center">
 
-https://github-readme-stats.vercel.app/api?username=kurtprime&show_icons=true&theme=radical&count_private=true
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=kurtprime&layout=compact&theme=radical&hide=html,css
-
-https://streak-stats.demolab.com/?user=kurtprime&theme=radical
+[![Kurt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kurtprime&show_icons=true&theme=radical&count_private=true)](https://github.com/kurtprime)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurtprime&layout=compact&theme=radical&hide=html,css)](https://github.com/kurtprime)
 </div>
