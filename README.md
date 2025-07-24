@@ -1,4 +1,5 @@
 <div align="center">
+  
 <!-- GitHub Banner -->
 <img src="https://placehold.co/1280x400/0f172a/white?text=Kurt+Ivan:+Building+Modern+Web+Apps" alt="GitHub Banner" width="100%">
 
@@ -7,6 +8,9 @@
 <p>Building intelligent web applications with modern architectures</p>
 
 <!-- Social Badges -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://kurtivan.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kurt-ivan)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kurtivan_dev)
 
 <!-- Animated Tech Stack -->
 <div class="tech-stack">
@@ -70,8 +74,8 @@
 <div align="center">
   
 <!-- GitHub Stats Cards -->
-[![Kurt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kurt-liao&show_icons=true&theme=radical&count_private=true)](https://github.com/kurt-liao)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurt-liao&layout=compact&theme=radical&hide=html,css)](https://github.com/kurt-liao)
+[![Kurt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kurtprime&show_icons=true&theme=radical&count_private=true)](https://github.com/kurtprime)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurtprime&layout=compact&theme=radical&hide=html,css)](https://github.com/kurtprime)
 
 <!-- Architecture Diagram -->
 ```mermaid
@@ -84,16 +88,4 @@ graph LR
     E --> G[Drizzle ORM]
     F --> G
     G --> H[BetterAuth]
-
 </div>
-
-const myPrinciples = {
-  architecture: "Event-driven with clear boundaries",
-  testing: "Vitest for unit tests, Playwright for E2E",
-  infrastructure: "Serverless-first with edge computing",
-  databases: "Relational when structured, NoSQL when flexible",
-  deployment: "Zero-downtime deployments with feature flags",
-  collaboration: "Documentation as code with TypeScript types",
-};
-
-<style> /* Animated Tech Stack Styles */ .tech-stack { display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 2rem 0; } .tech-item { padding: 10px 20px; border-radius: 50px; background: #0f172a; color: white; position: relative; overflow: hidden; font-weight: 500; } .tech-item::before { content: ''; position: absolute; top: 0; left: -100%; width: 100%; height: 100%; background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent); transition: 0.5s; } .tech-item:hover::before { left: 100%; } </style>
