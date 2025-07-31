@@ -1,28 +1,14 @@
 <div align="center">
-  
-<!-- GitHub Banner -->
-<img src="https://placehold.co/1280x400/0f172a/white?text=Kurt+Ivan:+Building+Modern+Web+Apps" alt="GitHub Banner" width="100%">
 
-<!-- Profile Header -->
-<h1>👋 Hi, I'm Kurt - Full Stack Developer</h1>
-<p>Building intelligent web applications with modern architectures</p>
+<!-- Banner -->
+<img src="https://placehold.co/1280x400/0f172a/ffffff?text=Kurt+Ivan:+Building+Modern+Web+Apps" alt="Banner" width="100%"/>
 
-<!-- Social Badges -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://kurtivan.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kurt-ivan)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kurtivan_dev)
+# 👋 Hi, I'm Kurt — Full Stack Developer  
+### Crafting intelligent web applications with modern architecture & AI
 
-<!-- Tech Stack Badges -->
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Inngest-0f172a?logo=inngest&logoColor=38bdf8" alt="Inngest">
-  <img src="https://img.shields.io/badge/OpenRouter-6441A5?logo=openai&logoColor=white" alt="OpenRouter">
-  <img src="https://img.shields.io/badge/Clerk-1570EF?logo=clerk&logoColor=white" alt="Clerk">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" alt="Supabase">
-  <img src="https://img.shields.io/badge/Drizzle-FF6B6B?logo=postgresql&logoColor=white" alt="Drizzle">
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kurtivan.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kurt-ivan)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kurtivan_dev)
 
 </div>
 
@@ -30,44 +16,53 @@
 
 ## 🚀 Tech Stack & Expertise
 
-| Category       | Technologies                                                                 |
-|----------------|------------------------------------------------------------------------------|
-| **Frontend**   | Next.js, React, Tailwind CSS, Shadcn UI                                      |
-| **Backend**    | Inngest, Serverless Functions, Edge Runtime                                  |
-| **AI**         | OpenRouter, LangChain, AI SDK                                               |
-| **Auth**       | Clerk, BetterAuth, OAuth 2.0, JWT                                           |
-| **Database**   | Supabase, Neon PostgreSQL, Drizzle ORM                                      |
-| **DevOps**     | Vercel, GitHub Actions, CI/CD                                               |
+| Category       | Tools & Frameworks                                                                 |
+|----------------|-------------------------------------------------------------------------------------|
+| **Frontend**   | ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white) ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-0f172a?logo=ui&logoColor=white) |
+| **Backend**    | ![Inngest](https://img.shields.io/badge/Inngest-0f172a?logo=inngest&logoColor=38bdf8) Serverless Functions, Edge Runtime |
+| **AI/ML**      | ![OpenRouter](https://img.shields.io/badge/OpenRouter-6441A5?logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-000000?logo=python&logoColor=white) AI SDK |
+| **Auth**       | ![Clerk](https://img.shields.io/badge/Clerk-1570EF?logo=clerk&logoColor=white) OAuth 2.0, JWT, BetterAuth |
+| **Database**   | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white) ![Neon](https://img.shields.io/badge/NeonDB-1A1A1A?logo=postgresql&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle-FF6B6B?logo=postgresql&logoColor=white) |
+| **DevOps**     | ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white) CI/CD |
 
 ---
 
-## 🔥 Featured Projects
+## 🌟 Featured Project
 
-### [TalkAI](https://github.com/kurtprime/Call-Ai) - Intelligent Meeting Assistant
-> AI-powered meeting platform with real-time transcription and analytics
+### [🔗 TalkAI](https://github.com/kurtprime/Call-Ai) — *AI-powered Meeting Assistant*
 
-**Tech Stack:**  
+> A real-time meeting platform built with AI that transcribes, summarizes, and analyzes conversations
+
+**Tech Used:**  
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Inngest](https://img.shields.io/badge/-Inngest-0f172a?logo=inngest&logoColor=38bdf8)
-![OpenRouter](https://img.shields.io/badge/-OpenRouter-6441A5)
-![Drizzle ORM](https://img.shields.io/badge/-Drizzle_ORM-FF6B6B)
+![OpenRouter](https://img.shields.io/badge/-OpenRouter-6441A5?logo=openai&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/-Drizzle_ORM-FF6B6B?logo=postgresql&logoColor=white)
 
+#### ✨ Key Features:
+- 🎤 Real-time transcription with WebSockets  
+- 🤖 AI-powered summaries with prompt customization  
+- ⚡️ Event-driven architecture with background workers  
+- 🔒 Type-safe codebase using TypeScript end-to-end  
 
-Features:
+---
 
-    🎤 Real-time meeting transcription using WebSockets
+## 📊 GitHub Stats
 
-    🤖 AI-powered summaries with custom prompts
-
-    ⚡️ Event-driven architecture with background workers
-
-    🔒 End-to-end TypeScript with strict type safety
 <div align="center">
-  
-![Kurt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kurtprime&show_icons=true&theme=radical&count_private=true)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kurtprime&layout=compact&theme=radical&hide=html,css)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=kurtprime&theme=radical)
+![Kurt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kurtprime&show_icons=true&theme=radical&count_private=true&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kurtprime&layout=compact&theme=radical&hide=html,css&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=kurtprime&theme=radical&hide_border=true)
 
 </div>
+
+---
+
+> 🧠 Currently exploring: Multi-agent LLM architectures, AI Automation, and Advanced DevOps workflows.
+
+---
+
+### Let's Connect  
+If you're working on something interesting or want to collaborate — feel free to reach out on [Twitter](https://twitter.com/kurtivan_dev) or [LinkedIn](https://linkedin.com/in/kurt-ivan)!
+
