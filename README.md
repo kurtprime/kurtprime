@@ -51,9 +51,9 @@
 
 <div align="center">
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=kurtprime&theme=radical&hide_border=true)
 ![Kurt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kurtprime&show_icons=true&theme=radical&count_private=true&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kurtprime&layout=compact&theme=radical&hide=html,css&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=kurtprime&theme=radical&hide_border=true)
 
 </div>
 
